@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himansuwebcoder" alt="himansuwebcoder" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, React.js**
+- 🌱 I’m currently learning **Javascript, Node.js, React.js**
 
 - 👨‍💻 All of my projects are available at [https://dulcet-florentine-b4aa17.netlify.app/](https://dulcet-florentine-b4aa17.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@naikhimansu546/how-to-get-out-of-tutorial-hell-840e83da23a4](https://medium.com/@naikhimansu546/how-to-get-out-of-tutorial-hell-840e83da23a4)
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **naikhimansu546@gmail.com**
 
