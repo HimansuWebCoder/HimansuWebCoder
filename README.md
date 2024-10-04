@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm A Full-Stack Developer</h1>
 <h3 align="center"> A Full-Stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himansuwebcoder&label=Profile%20views&color=0e75b6&style=flat" alt="himansuwebcoder" /> </p>
 
@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Javascript, Node.js, React.js**
 
-- 👨‍💻 All of my projects are available at [https://dulcet-florentine-b4aa17.netlify.app/](https://dulcet-florentine-b4aa17.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://himansuwebportfolio.netlify.app/](https://himansuwebportfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@naikhimansu546/how-to-get-out-of-tutorial-hell-840e83da23a4](https://medium.com/@naikhimansu546/how-to-get-out-of-tutorial-hell-840e83da23a4)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript**, **React**, **Node.js**
 
 - 📫 How to reach me **naikhimansu546@gmail.com**
 
